@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://flarecurve.fun/api/$1"
+      "destination": "https://embercurve.fun/api/$1"
     },
     {
       "source": "/img/(.*)",
-      "destination": "https://flarecurve.fun/img/$1"
+      "destination": "https://embercurve.fun/img/$1"
     },
     {
       "source": "/(.*)",
