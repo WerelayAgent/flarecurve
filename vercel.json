@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://embercurve.fun/api/$1"
+    },
+    {
+      "source": "/img/(.*)",
+      "destination": "https://embercurve.fun/img/$1"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
